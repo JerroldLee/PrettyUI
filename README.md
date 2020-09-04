@@ -1,4 +1,4 @@
-# prettyUI
+# PrettyUI
 
 > https://github.com/youzan/vant
 
